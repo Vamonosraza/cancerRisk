@@ -91,7 +91,7 @@ if st.button('Show Correlation Matrix Heatmap'):
     else:
         st.error(f"File not found: {file_path}")
 
-# Acknowledgment and Disclaimer
+# acknowledgment and disclaimer
 st.write("### Acknowledgment")
 st.write("This project was partially guided by Ryan Ahmed through Coursera.")
 st.write("### Disclaimer")
